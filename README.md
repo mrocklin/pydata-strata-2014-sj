@@ -3,7 +3,7 @@
 ## Requirements
 
 - Install [Anaconda](http://continuum.io/downloads)
-- Download data sets ... to come ...
+- Download [Baseball Statistics SQLite databse](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2013.sqlite)
 
 ## Outline
 
